@@ -1,7 +1,7 @@
 # Setup
 title: Linda Blog
 description:
-url: https://Lindashin15.github.io
+url: https://lindashin15.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Juyeon Shin
+  url: https://github.com/Lindashin15
+  email: sjynino@gmail.com
